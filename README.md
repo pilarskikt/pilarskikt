@@ -24,9 +24,9 @@ to finally be where i am right now - working with Public Cloud and IaC.
 	  <img src="https://img.shields.io/badge/-SCCM-5E5E5E?logo=microsoft&logoColor=white" />
 - What i want to improve at: 
 	<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=yellow" />
-	<img src="https://img.shields.io/badge/-Next.js-ffffff?logo=Next.js&logoColor=black&" />
 - What i'm trying to learn right now: 
 	<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=blue" />
+	<img src="https://img.shields.io/badge/-Next.js-ffffff?logo=Next.js&logoColor=black&" />
 
 
 
