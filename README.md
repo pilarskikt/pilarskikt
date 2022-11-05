@@ -40,4 +40,5 @@ to finally be where i am right now - working with Public Cloud and IaC.
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilarskikt&hide=contribs,prs)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilarskikt&hide=contribs,prs)--->
+
