@@ -9,7 +9,7 @@
 ### I am a Cloud Engineer
 Started my carer in 2007 as Windows Administrator,
 going through System Center Configuration Manager Administration to switch my path in 2014 to VMware solutions and Private Cloud
-to finally be where i am right now - working with Public Cloud and IaC.
+to after that finally be where i am right now - working with Public Cloud and IaC.
 
 - Technologies i work with:
       <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws" /> 
